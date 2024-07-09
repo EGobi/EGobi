@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EGobi and I hold a degree in Health Informatics from the Federal University of Sao Paulo
-- 🖥 I work for the Sao Paulo State's Institute for Medical Assistance to the State Civil Servant (IAMSPE)
+- 💼 I work for the Sao Paulo State's Institute for Medical Assistance to the State Civil Servant (IAMSPE)
 - 👀 I’m interested in Data Analysis, Health Informatics, Signal Processing and Data Science
-- 🌱 I’m currently learning DAX, MDX, Microsoft Fabric, Power Query M, SQL Server and Analysis Services
+- 🌱 I’m currently learning C#, MDX, Microsoft Fabric, SQL Server and Analysis Services
+- 🌳 I write DAX and Power Query M code on almost a daily basis. I do some code cleaning and optimization, too
 - 📫 You can reach me on my email, which you'll find in the left menu. I'll be happy to share knowledge :D
 - 🔒 This profile only contains side projects, which are open sourced. Sadly, the main ones are private
 
